@@ -1,6 +1,6 @@
 # WSLC Controller
 
-Windows Form アプリケーションから WSLC (Windows Subsystem for Linux Container CLI) のコンテナーを起動・停止・監視するためのアプリケーションです。
+Windows Form アプリケーションから WSLC (WSL Container) のコンテナーを起動・停止・監視するためのアプリケーションです。
 
 ## 概要
 
