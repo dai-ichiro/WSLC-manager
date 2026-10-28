@@ -1,4 +1,4 @@
-# WSLC Controller
+# WSLC manager
 
 Windows Form アプリケーションから WSLC (WSL Container) のコンテナーを起動・停止・監視するためのアプリケーションです。
 
